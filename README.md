@@ -13,3 +13,10 @@ Preprocessing: A critical part of the project is preparing the data for training
 Training: We utilize a pre-trained language model, such as 'distilbert-base-uncased,' and TensorFlow datasets to train our question-answering model. The model is compiled and trained for a specified number of epochs.
 
 Sharing with Hugging Face Hub: To make our model and tokenizer accessible to others, we leverage the Hugging Face Hub. This allows users to easily access and use the model for their own question-answering tasks.
+
+Technologies Used: Python,
+Hugging Face Transformers Library,
+Hugging Face Datasets Library,
+TensorFlow,
+Hugging Face Hub,
+Jupyter Notebooks
